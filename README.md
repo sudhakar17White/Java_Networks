@@ -3,8 +3,10 @@
 
 # Networks
 
-    A computer network is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols  
-    over digital interconnections to communicate with each other. These interconnections are made up of telecommunication network technologies, based on  
+    A computer network is a set of computers sharing resources located on or provided by network nodes. 
+    The computers use common communication protocols  
+    over digital interconnections to communicate with each other. 
+    These interconnections are made up of telecommunication network technologies, based on  
     physically wired, optical, and wireless radio-frequency methods that may be arranged in a variety of network topologies.
     
     
@@ -18,8 +20,10 @@
 # Check_Sum
 
     
-    This is a block code method where a checksum is created based on the data values in the data blocks to be transmitted using some
-    algorithm and appended to the data. When the receiver gets this data, a new checksum is calculated and compared with the existing checksum. 
+    This is a block code method where a checksum is created based on the data values in 
+    the data blocks to be transmitted using some
+    algorithm and appended to the data. When the receiver gets this data, a new checksum 
+    is calculated and compared with the existing checksum. 
     A non-match indicates an error.
     
 
@@ -29,8 +33,10 @@
 
 # leaky bucket 
 
-    The leaky bucket is an algorithm based on an analogy of how a bucket with a constant leak will overflow if either the average 
-    rate at which water is poured in exceeds the rate at which the bucket leaks or if more water than the capacity of the bucket 
+    The leaky bucket is an algorithm based on an analogy of how a bucket with a 
+    constant leak will overflow if either the average 
+    rate at which water is poured in exceeds the rate at which the 
+    bucket leaks or if more water than the capacity of the bucket 
     is poured in all at once
     
     
